@@ -10,3 +10,5 @@
 
 
 ##### Ввели разные надписи для заголовков
+
+[Picture](https://octodex.github.com/images/yaktocat.png)
